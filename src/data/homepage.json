@@ -1,0 +1,105 @@
+{
+  "novel_fiksi": [
+    {
+      "id": "9DA5DwAAQBAJ",
+      "title": "Bumi Manusia",
+      "authors": [
+        "Pramoedya Ananta Toer"
+      ],
+      "thumbnail": "http://books.google.com/books/content?id=9DA5DwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "YLo8DwAAQBAJ",
+      "title": "Cantik Itu Luka",
+      "authors": [
+        "Eka Kurniawan"
+      ],
+      "thumbnail": "http://books.google.com/books/content?id=YLo8DwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "E-I8DwAAQBAJ",
+      "title": "Negeri 5 Menara",
+      "authors": [
+        "A Fuadi"
+      ],
+      "thumbnail": "http://books.google.com/books/content?id=E-I8DwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "S0ZNe2iqM54C",
+      "title": "Laskar Pelangi",
+      "authors": [
+        "Andrea Hirata"
+      ],
+      "thumbnail": "http://books.google.com/books/content?id=S0ZNe2iqM54C&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api"
+    }
+  ],
+  "bisnis_ekonomi": [
+    {
+      "id": "kRqeDwAAQBAJ",
+      "title": "Rich Dad Poor Dad - What the Rich Teach Their Kids About Money",
+      "authors": [
+        "Robert T. Kiyosaki"
+      ],
+      "thumbnail": "http://books.google.com/books/content?id=kRqeDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "5HrrDwAAQBAJ",
+      "title": "The Psychology of Money",
+      "authors": [
+        "Morgan Housel"
+      ],
+      "thumbnail": "http://books.google.com/books/content?id=5HrrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "2C7pDwAAQBAJ",
+      "title": "The Black Swan: Rahasia Terjadinya Peristiwa-Peristiwa Langka yang Tak Terduga (Edisi Revisi)",
+      "authors": [
+        "Nassim Nicholas Taleb"
+      ],
+      "thumbnail": "http://books.google.com/books/content?id=2C7pDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "6WGhDwAAQBAJ",
+      "title": "Think and Grow Rich",
+      "authors": [
+        "Napoleon Hill"
+      ],
+      "thumbnail": "http://books.google.com/books/content?id=6WGhDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api"
+    }
+  ],
+  "pengembangan_diri": [
+    {
+      "id": "1bm0DwAAQBAJ",
+      "title": "Atomic Habits: Perubahan Kecil yang memberikan hasil luar biasa",
+      "authors": [
+        "James Clear"
+      ],
+      "thumbnail": "http://books.google.com/books/content?id=1bm0DwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "GfDiEAAAQBAJ",
+      "title": "The Compass",
+      "authors": [
+        "Henry Manampiring"
+      ],
+      "thumbnail": "http://books.google.co.id/books?id=GfDiEAAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "IggxDwAAQBAJ",
+      "title": "The Courage To Be Disliked",
+      "authors": [
+        "Ichiro Kishimi",
+        "Fumitake Koga"
+      ],
+      "thumbnail": "http://books.google.com/books/content?id=IggxDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "R0-eBAAAQBAJ",
+      "title": "Mindset",
+      "authors": [
+        "Carol Dweck"
+      ],
+      "thumbnail": "http://books.google.com/books/content?id=R0-eBAAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api"
+    }
+  ]
+}
